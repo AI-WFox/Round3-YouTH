@@ -2,7 +2,7 @@
 ## Hướng dẫn sử dụng
 
 1. **Hoàn thành cài đặt:**
-   - Đảm bảo bạn đã hoàn thành các bước cài đặt được mô tả trong tệp README.
+   - Tải app Xampp và hoàn thành các bước cài đặt để chạy code trên web
 
 2. **Khởi động máy chủ:**
    - Mở Xampp và nhấn vào nút "Start" cho Apache và MySQL.
